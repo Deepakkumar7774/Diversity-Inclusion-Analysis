@@ -68,8 +68,8 @@ This project reflects my commitment to leveraging data for positive change. I’
 📌 Let’s Connect
 Interested in discussing data analytics, diversity, or this project? Feel free to reach out!
 
-📧 [Your Email Address]
-🔗 [Your LinkedIn Profile]
-🌐 [Your GitHub Profile]
+📧 deepakkumarsingh7774@gmail.com
+🔗 https://www.linkedin.com/in/deepakkumar7774
+🌐 https://github.com/Deepakkumar7774/Diversity-Inclusion-Analysis
 
 Let’s work together to create data-driven solutions that make a difference! 🌟
